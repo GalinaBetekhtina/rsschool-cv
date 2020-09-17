@@ -7,3 +7,22 @@
 
 ### Summary
 It’s incredibly interesting for me to learn frontend. That is why I can sit at the computer for hours on end of the book to watch educational videos to solve problems and not get tired but enjoy the training. It is the pleasure of the process that i consider the most important motivation. Also able to absorb a lot of information in a short period of time and constantly learn. I also consider myself a hardworking person able to solve difficult tasks in time.
+
+
+### Education: Saint Petersburg Electrotechnical University "LETI" , self-learning.
+
+
+### Skills:
+    * HTML basics
+    * CSS basics
+    * Git basics
+    * JS basics
+
+
+### Courses:
+    * 2020 RS School Front-End Javascript
+
+
+### Lanquages:
+    * Russian - native;
+    * English - Pre-Intermediate.
