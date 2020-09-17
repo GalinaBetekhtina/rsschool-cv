@@ -1,2 +1,2 @@
 # rsschool-cv
-cv for RS School
+## https://GalinaBetekhtina.github.io/rsschool-cv/cv
