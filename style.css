@@ -45,7 +45,6 @@ body, h1, h2, h3, h4, p, a, ul {
     margin-top: 20px;
 }
 
-
 .contactInfo {
     width: 100%;
     margin-top: 20px;
@@ -72,3 +71,27 @@ body, h1, h2, h3, h4, p, a, ul {
     width: 100%;
     margin-top: 20px;
 }  
+.footer {
+    width: 100%;
+    margin: 50px auto 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    
+  }
+  
+  .footer-author {
+    color: #000;
+   
+  }
+
+  .logoRS {
+      width: 100px;
+      padding-right: 30px;
+  }
+
+
+  .footer-git {
+      margin: 20px auto;
+  }
