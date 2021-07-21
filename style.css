@@ -1,7 +1,6 @@
 body, h1, h2, h3, h4, p, a, ul {
     margin: 0;
     font-size: 100%;
-    
   }
   
   body {
@@ -14,13 +13,10 @@ body, h1, h2, h3, h4, p, a, ul {
   h1 {
     font-size: 32px;
     font-weight: bold;
-    text-align: center;
-   
-    
+    text-align: center;  
   }
 
   h2 {
-      
       font-weight: bold;
       margin-bottom: 5px;
   }
@@ -35,6 +31,7 @@ body, h1, h2, h3, h4, p, a, ul {
     margin: auto;
     width: 500px;
 }
+
 .Name {
     width: 100%;
     margin-top: 20px;
@@ -45,14 +42,28 @@ body, h1, h2, h3, h4, p, a, ul {
     margin-top: 20px;
 }
 
+.photoForCV {
+    width: 300px;
+    margin:10px auto 10px;
+}
+
+.photo {
+    width: 100%;
+    border: 3px white solid;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px rgba(139, 116, 116, 0.4);
+}
+
 .contactInfo {
     width: 100%;
     margin-top: 20px;
 }
+
 .Summary {
     width: 100%;
     margin-top: 20px;
 }
+
 .Education {
     width: 100%;
     margin-top: 20px;
@@ -62,6 +73,7 @@ body, h1, h2, h3, h4, p, a, ul {
     width: 100%;
     margin-top: 20px;
 }
+
 .Courses {
     width: 100%;
     margin-top: 20px;
@@ -71,6 +83,7 @@ body, h1, h2, h3, h4, p, a, ul {
     width: 100%;
     margin-top: 20px;
 }  
+
 .footer {
     width: 100%;
     margin: 50px auto 10px;
@@ -78,19 +91,16 @@ body, h1, h2, h3, h4, p, a, ul {
     font-weight: bold;
     font-style: italic;
     padding: 0;
-    
   }
   
   .footer-author {
     color: #000;
-   
   }
 
   .logoRS {
       width: 100px;
       padding-right: 30px;
   }
-
 
   .footer-git {
       margin: 20px auto;
