@@ -12,3 +12,17 @@ It’s incredibly interesting for me to learn frontend. That is why I can sit at
 
 ## Education: 
 Saint Petersburg Electrotechnical University "LETI", self-learning.
+
+## Skills:
+* HTML basics;
+* CSS basics;
+* Git basics;
+* JS basics;
+
+### Courses:
+* 2020 RS School Front-End Javascript;
+
+### Lanquages:
+* Russian - Native;
+* English - Pre-Intermediate;
+* German - Elementary.
