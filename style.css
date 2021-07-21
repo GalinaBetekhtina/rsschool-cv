@@ -1,0 +1,107 @@
+body, h1, h2, h3, h4, p, a, ul {
+    margin: 0;
+    font-size: 100%;
+  }
+  
+  body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);  
+    font-size: 24px;
+}
+    
+
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;  
+  }
+
+  h2 {
+      font-weight: bold;
+      margin-bottom: 5px;
+  }
+ 
+.header {
+    margin: auto;
+    width: 500px;
+    padding: 30px 0;
+}
+
+.content {
+    margin: auto;
+    width: 500px;
+}
+
+.Name {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Date {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.photoForCV {
+    width: 300px;
+    margin:10px auto 10px;
+}
+
+.photo {
+    width: 100%;
+    border: 3px white solid;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px rgba(139, 116, 116, 0.4);
+}
+
+.contactInfo {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Summary {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Education {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Skills {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Courses {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Lanquages {
+    width: 100%;
+    margin-top: 20px;
+}  
+
+.footer {
+    width: 100%;
+    margin: 50px auto 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+  }
+  
+  .footer-author {
+    color: #000;
+  }
+
+  .logoRS {
+      width: 100px;
+      padding-right: 30px;
+  }
+
+  .footer-git {
+      margin: 20px auto;
+  }
